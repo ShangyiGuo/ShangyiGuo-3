@@ -1,6 +1,6 @@
 ---
 role: Undergraudate Researcher
-avatar_filename: img_4591.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -37,7 +37,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Shangyi Guo (郭尚祎)
+title: Shangyi Guo
 email: steinguo@outlook.com
 ---
 
