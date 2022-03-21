@@ -1,12 +1,10 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+role: Undergraudate Researcher
+avatar_filename: img_4591.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Condensed Matter Physics
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shandong University
+    url: https://www.en.sdu.edu.cn
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,9 +35,10 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
 superuser: true
 highlight_name: true
+title: Shangyi Guo (郭尚祎)
+email: steinguo@outlook.com
 ---
 
 
